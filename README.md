@@ -6,7 +6,7 @@ Pig Game
 
 ### Screenshot
 
-![](./screenshot_1.jpg)
+![](./screenshot_1.png)
 
 
 
